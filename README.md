@@ -27,7 +27,6 @@ This project is a full-stack web application that utilizes artificial intelligen
 - Flask  
 - pandas  
 - scikit-learn  
-- Jinja2 (for templates)
 
 ### Setup Instructions
 
