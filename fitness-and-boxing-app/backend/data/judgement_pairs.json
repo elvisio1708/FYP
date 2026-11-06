@@ -1,0 +1,247 @@
+{
+ "_note": "Easier/harder exercise pairs written from general coaching judgement, not from model output. development guided rule writing; held_out was fixed before the rules and is only for final reporting. Never tune against held_out.",
+ "development": [
+  [
+   "Crunch",
+   "Muscle Up"
+  ],
+  [
+   "Wall sit",
+   "Kettlebell Pistol Squat"
+  ],
+  [
+   "Bodyweight squat",
+   "Clean and jerk"
+  ],
+  [
+   "Bodyweight squat",
+   "Power Snatch"
+  ],
+  [
+   "Glute bridge",
+   "Single-leg glute bridge"
+  ],
+  [
+   "Glute bridge",
+   "Snatch Deadlift"
+  ],
+  [
+   "Leg Press",
+   "Split Jerk"
+  ],
+  [
+   "Leg extension",
+   "Squat Jerk"
+  ],
+  [
+   "Dumbbell Bicep Curl",
+   "Muscle Up"
+  ],
+  [
+   "Dumbbell Bicep Curl",
+   "Handstand push-up"
+  ],
+  [
+   "Band-assisted pull-up",
+   "Weighted pull-up"
+  ],
+  [
+   "Elbow plank",
+   "Handstand push-up"
+  ],
+  [
+   "Standing hamstring stretch",
+   "Depth jump box jump"
+  ],
+  [
+   "Walking High Knee",
+   "Triple Clap Push-Up"
+  ],
+  [
+   "Box jump",
+   "Depth jump box jump"
+  ],
+  [
+   "Box jump",
+   "Single-Leg Box Jump"
+  ],
+  [
+   "Crunch",
+   "Kipping Muscle Up"
+  ],
+  [
+   "Burpee",
+   "Burpee to pull-up"
+  ],
+  [
+   "Leg Press",
+   "Single-Arm Dumbbell Overhead Squat"
+  ],
+  [
+   "Leg Press",
+   "Hang Snatch"
+  ],
+  [
+   "Standing Dumbbell Calf Raise",
+   "Clean and press"
+  ],
+  [
+   "Seated Leg Press",
+   "Barbell Deadlift"
+  ],
+  [
+   "Lying hamstring stretch with band",
+   "Ring dip"
+  ],
+  [
+   "Bodyweight squat",
+   "Smith machine pistol squat"
+  ],
+  [
+   "Wall sit",
+   "Clapping Push-Up"
+  ],
+  [
+   "Walking lunge",
+   "Barbell walking lunge"
+  ],
+  [
+   "Leg Extensions",
+   "Power Snatch"
+  ],
+  [
+   "Banded crunch",
+   "Skin The Cat To Push-Up"
+  ]
+ ],
+ "held_out": [
+  [
+   "Slow Jog",
+   "Burpee over barbell"
+  ],
+  [
+   "Cat Stretch",
+   "Box Jump (Multiple Response)"
+  ],
+  [
+   "Chair Leg Extended Stretch",
+   "Single-Leg Box Jump"
+  ],
+  [
+   "Reverse Cable Curl",
+   "Single-arm kettlebell clean and jerk"
+  ],
+  [
+   "Leg press calf raise",
+   "Dumbbell Pistol Squat"
+  ],
+  [
+   "Smith machine leg press",
+   "Sumo deadlift"
+  ],
+  [
+   "Seated Leg Press",
+   "Romanian Deadlift"
+  ],
+  [
+   "Close-Grip Front Lat Pulldown",
+   "Kipping Clapping Pull-Up"
+  ],
+  [
+   "Full Range-Of-Motion Lat Pulldown",
+   "Weighted pull-up"
+  ],
+  [
+   "Banded crunch",
+   "Burpee to pull-up"
+  ],
+  [
+   "Dumbbell crunch",
+   "Gorilla burpee"
+  ],
+  [
+   "Walking Butt Kicks",
+   "Superhero burpee"
+  ],
+  [
+   "Elbow plank",
+   "Spider plank jack"
+  ],
+  [
+   "Side plank hip dip",
+   "Feet-Elevated TRX Push-Up"
+  ],
+  [
+   "Plank Push-Up",
+   "Clapping Push-Up"
+  ],
+  [
+   "Band overhead squat",
+   "Single-arm kettlebell overhead squat"
+  ],
+  [
+   "Standing barbell calf raise",
+   "Snatch Pull"
+  ],
+  [
+   "Barbell Seated Calf Raise",
+   "Split Snatch"
+  ],
+  [
+   "Leg Extensions",
+   "Push-jerk"
+  ],
+  [
+   "Single-leg leg extension",
+   "Jerk Balance"
+  ],
+  [
+   "Standing hamstring stretch",
+   "Linear Depth Jump"
+  ],
+  [
+   "Walking Glute Stretch",
+   "High Plyometric Box Jump"
+  ],
+  [
+   "Walking High Knee",
+   "Incline Push-Up Depth Jump"
+  ],
+  [
+   "Dumbbell walking calf raise",
+   "Dumbbell Clean And Jerk"
+  ],
+  [
+   "Bodyweight squat",
+   "Dumbbell clean and press"
+  ],
+  [
+   "Glute bridge",
+   "Barbell glute bridge"
+  ],
+  [
+   "Crunch",
+   "Bear crawl push-up"
+  ],
+  [
+   "Wall sit",
+   "Lateral box jump"
+  ],
+  [
+   "Rocking Standing Calf Raise",
+   "Half Turkish get-up"
+  ],
+  [
+   "Leg-Up Hamstring Stretch",
+   "Axle Clean And Press"
+  ],
+  [
+   "Smith machine standing calf raise",
+   "Alternating dumbbell snatch"
+  ],
+  [
+   "Calf Raises - With Bands",
+   "Triple Clap Push-Up"
+  ]
+ ]
+}

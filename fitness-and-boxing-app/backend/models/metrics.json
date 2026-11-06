@@ -1,0 +1,91 @@
+{
+  "n_samples": 2904,
+  "class_counts": {
+    "Intermediate": 2432,
+    "Beginner": 459,
+    "Expert": 13
+  },
+  "publisher_prefixed_rows": 1093,
+  "cv_folds": 5,
+  "judgement_pairs": {
+    "held_out": {
+      "old_model": {
+        "correct": 14,
+        "total": 32,
+        "percent": 43.8
+      },
+      "rules_only": {
+        "correct": 30,
+        "total": 32,
+        "percent": 93.8
+      },
+      "new_model": {
+        "correct": 31,
+        "total": 32,
+        "percent": 96.9
+      }
+    },
+    "development": {
+      "old_model": {
+        "correct": 8,
+        "total": 28,
+        "percent": 28.6
+      },
+      "rules_only": {
+        "correct": 27,
+        "total": 28,
+        "percent": 96.4
+      },
+      "new_model": {
+        "correct": 27,
+        "total": 28,
+        "percent": 96.4
+      }
+    }
+  },
+  "dataset_labels_on_pairs": {
+    "correct": 8,
+    "tied": 35,
+    "backwards": 17
+  },
+  "old_model_on_label_task": {
+    "scope": "rows without a publisher prefix, duplicates kept in one fold",
+    "accuracy": 0.8294,
+    "balanced_accuracy": 0.5946
+  },
+  "generalisation_family_hidden_from_training": {
+    "mean_rule_points_all_rows": -0.2,
+    "families": {
+      "snatch": {
+        "rows": 25,
+        "rule_points": 2.69,
+        "predicted_when_hidden": 1.39
+      },
+      "pistol": {
+        "rows": 3,
+        "rule_points": 1.08,
+        "predicted_when_hidden": -0.46
+      },
+      "muscle.?up": {
+        "rows": 2,
+        "rule_points": 2.0,
+        "predicted_when_hidden": 0.12
+      },
+      "clap": {
+        "rows": 5,
+        "rule_points": 2.4,
+        "predicted_when_hidden": 0.62
+      },
+      "stretch": {
+        "rows": 89,
+        "rule_points": -2.74,
+        "predicted_when_hidden": -1.76
+      },
+      "machine": {
+        "rows": 95,
+        "rule_points": -1.76,
+        "predicted_when_hidden": -1.07
+      }
+    }
+  }
+}
